@@ -65,6 +65,7 @@ function App() {
              </div>
           </div>
         </div>
+<footer className='footer'>created by ifeanyi presley </footer>
     
   );
     
